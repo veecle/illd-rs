@@ -1,0 +1,9 @@
+[package]
+name = "illd-rs"
+version = "0.1.0"
+authors = ["Veecle GmbH - info@veecle.io"]
+edition = "2021"
+homepage = "https://veecle.io"
+description = "Stub crate around Infineon's iLLD drivers for packaging and distribution."
+
+[dependencies]
