@@ -7,3 +7,6 @@ homepage = "https://veecle.io"
 description = "Stub crate around Infineon's iLLD drivers for packaging and distribution."
 
 [dependencies]
+
+[build-dependencies]
+path_macro = "1"
